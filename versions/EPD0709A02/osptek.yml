@@ -1,0 +1,10 @@
+id: EPD0709A02
+category: displays
+size: "7.09"
+panel: epd
+resolution: 1200x1600
+interface: [spi, qspi]
+driver: NT61522x2+EK73601x1
+touch: null
+outline: 117 x 157.7 x 0.9 mm
+active_area: 108 x 144 mm
